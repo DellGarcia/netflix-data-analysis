@@ -1,5 +1,7 @@
 # Ignore python env binaries
 env/
+__pycache__/
 
 # Ignore database sensitive info
 database.ini
+
