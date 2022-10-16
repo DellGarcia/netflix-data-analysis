@@ -1,1 +1,1 @@
-Wellcome to Netflix data analisys project :tada:
+Welcome to Netflix data analisys project :tada:
