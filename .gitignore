@@ -1,0 +1,5 @@
+# Ignore python env binaries
+env/
+
+# Ignore database sensitive info
+database.ini
